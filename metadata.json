@@ -1,0 +1,6 @@
+{
+  "name": "BB Burger — Hamburgueria Artesanal & Cardápio Digital",
+  "description": "Hambúrgueres artesanais premium com blend especial Angus, bacon crocante, cheddar derretido e pão brioche selado. Peça direto pelo WhatsApp!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
