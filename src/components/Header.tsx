@@ -44,7 +44,7 @@ export const Header: React.FC<HeaderProps> = ({
             aria-label="BB Burger Início"
           >
             <img
-              src="/bb-logo.svg"
+              src="./bb-logo.svg"
               alt="BB Burger Logo Oficial"
               className="w-12 h-12 sm:w-14 sm:h-14 object-contain group-hover:scale-105 transition-transform duration-300 drop-shadow-[0_4px_16px_rgba(0,0,0,0.6)]"
             />

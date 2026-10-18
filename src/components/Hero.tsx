@@ -50,8 +50,8 @@ export const Hero: React.FC<HeroProps> = ({ onScrollToMenu, onOrderNow }) => {
       <div className="absolute inset-0 w-full h-full min-h-full min-w-full overflow-hidden select-none pointer-events-none">
         <video
           ref={videoRef}
-          src="/hero-burger.mp4"
-          poster="/hero-burger-poster.jpg"
+          src="./hero-burger.mp4"
+          poster="./hero-burger-poster.jpg"
           autoPlay={!prefersReducedMotion}
           muted
           loop
