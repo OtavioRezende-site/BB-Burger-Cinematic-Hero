@@ -17,7 +17,7 @@ export const Footer: React.FC = () => {
           <div className="md:col-span-2 space-y-4">
             <div className="flex items-center">
               <img
-                src="./bb-logo.svg"
+                src={`${import.meta.env.BASE_URL}bb-logo.svg`}
                 alt="BB Burger Logo Oficial"
                 className="w-14 h-14 sm:w-16 sm:h-16 object-contain drop-shadow-[0_4px_16px_rgba(0,0,0,0.6)]"
               />
